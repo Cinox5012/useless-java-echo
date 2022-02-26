@@ -1,4 +1,4 @@
-# useless-java0-echo
+# useless-java-echo
 
 add to .bashrc:
 
